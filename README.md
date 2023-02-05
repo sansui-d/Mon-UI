@@ -1,8 +1,6 @@
 # Mon-UI
 
-## 一套好用的 PC 端 React 组件库
-
-![](https://img.shields.io/badge/license-MIT-000000.svg)
+## 一套 React UI组件库 [进入文档](https://sansui-d.github.io/Tue-UI/)
 
 > 本组件库仅供学习交流，请勿在生产环境中使用
 
@@ -44,5 +42,3 @@ ReactDOM.render(
   box-sizing: border-box;
 }
 ```
-
-如果您觉得还不错，请 star

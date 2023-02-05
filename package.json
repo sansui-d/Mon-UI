@@ -1,7 +1,7 @@
 {
-    "name": "Mon-UI",
+    "name": "mon-ui",
     "version": "0.0.1",
-    "description": "> 一套简单的 PC 端 React 组件库。",
+    "description": "一套简单的 PC 端 React 组件库。",
     "main": "lib/Mon-UI.js",
     "author": "Dylan",
     "license": "MIT",
