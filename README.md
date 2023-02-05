@@ -9,8 +9,8 @@
 ## 安装
 
 ```
-$ npm install xue-react
-$ yarn add xue-react
+$ npm install Mon-UI
+$ yarn add Mon-UI
 ```
 
 ## 使用
@@ -18,8 +18,8 @@ $ yarn add xue-react
 ```javascript
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'
-import { Button } from 'xue-react'
-import 'xue-react/lib/xue-react.css'
+import { Button } from 'Mon-UI'
+import 'Mon-UI/lib/Mon-UI.css'
 
 ReactDOM.render(
   <div>
