@@ -1,4 +1,4 @@
-# Xue-react
+# Mon-UI
 
 ## 一套好用的 PC 端 React 组件库
 
@@ -33,7 +33,7 @@ ReactDOM.render(
 
 ## 特别提醒
 
-使用 Xue-react 时，需要使用 border-box 盒模型，否则会影响样式。代码示例：
+使用 Mon-UI 时，需要使用 border-box 盒模型，否则会影响样式。代码示例：
 
 ```css
 *,
