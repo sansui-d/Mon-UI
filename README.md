@@ -1,6 +1,6 @@
 # Mon-UI
 
-## 一套 React UI组件库 [进入文档](https://sansui-d.github.io/Tue-UI/)
+## 一套 React UI组件库 [进入文档](https://sansui-d.github.io/Mon-UI/)
 
 ![mon](https://github.com/sansui-d/Mon-UI/assets/71920152/a7903e8f-9a3e-4f43-8f37-54b7c6e47037)
 
